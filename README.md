@@ -20,6 +20,6 @@ Change the line of coding
 
 parts in the code to reflect where the root path is located on your local machine for the project once forked and cloned otherwise the project will come up with errors. In the project, this line appears twice so make sure and change both lines accordingly.
 
-# Run the project by pressing Play
+# Run the prototype by pressing Play
 
 The project prototype artefact is now ready to run.  
