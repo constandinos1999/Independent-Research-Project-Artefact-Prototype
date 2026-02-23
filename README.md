@@ -1,3 +1,5 @@
+# Prototype Description
+
 This project is submitted under the University of York for the Master of Science degree in Computer Science with Cyber Security.
 
 The prototype starts with a real and widely used intrusion detection dataset (CICIDS2017) from Kaggle, which contains normal traffic and classical cyber attacks, this is then cleaned and prepared for machine-learning analysis. 
